@@ -4,7 +4,7 @@ Aplicación Flutter para gestionar notificaciones in-app.
 
 ## Requisitos
 
-- Flutter SDK compatible con Dart `^3.12.2`.
+- Flutter 3.44.7 (versión utilizada y probada) — Dart 3.12.2.
 - Para Android: Android SDK 37 y JDK 17.
 - Para iOS: macOS con Xcode y CocoaPods configurados.
 - El Bearer Token proporcionado para acceder a la API.
